@@ -1,7 +1,7 @@
-## Olá! Eu sou a Milena Marques
+## Hello, World! I am Milena Marques
 
-- Estudando Engenharia de Software e suas aplicações
-- Pronouns: ela/dela
+- I am currently studying software engineering and its applications
+- Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/milenamso">
