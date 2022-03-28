@@ -1,6 +1,6 @@
 ## Hello, World! I am Milena Marques.
 
-- I am currently studying software engineering and its applications
+- I'm currently studying software engineering and its applications
 - Pronouns: she/her
 
 <div align="center">
