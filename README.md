@@ -1,4 +1,4 @@
-## Hello, World! I am Milena Marques
+## Hello, World! I am Milena Marques.
 
 - I am currently studying software engineering and its applications
 - Pronouns: she/her
