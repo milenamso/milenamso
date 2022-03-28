@@ -2,6 +2,7 @@
 
 - I'm currently studying software engineering and its applications
 - Pronouns: she/her
+- In the moment i'm learning two programming languages Python and C
 
 <div align="center">
   <a href="https://github.com/milenamso">
