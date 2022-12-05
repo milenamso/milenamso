@@ -4,12 +4,6 @@
 - Pronouns: she/her
 - In the moment i'm learning two programming languages C and Python. I am also learning a language for describing the structure of Web pages, HTML, and the language for describing the presentation of Web pages, CSS.
 
-<div align="center">
-  <a href="https://github.com/milenamso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenamso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenamso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Milena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Milena-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
