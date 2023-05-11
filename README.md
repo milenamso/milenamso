@@ -1,7 +1,6 @@
 ## Hello, World! I am Milena Marques.
 
-- I'm currently studying software engineering and its applications
-- Pronouns: she/her
+- I'm currently studying software engineering and its applicationsp
 - In the moment i'm learning two programming languages C and Python. I am also learning a language for describing the structure of Web pages, HTML, and the language for describing the presentation of Web pages, CSS.
 
 <a href="https://github.com/milenamso">
