@@ -1,7 +1,7 @@
 ## Hello, World! I am Milena Marques.
 
 - I'm currently studying software engineering and its applications
-- In the moment i'm learning two programming languages C and Python. I am also learning a language for describing the structure of Web pages, HTML, and the language for describing the presentation of Web pages, CSS.
+- In the moment i'm learning about competitive programming and object-oriented
 
 <a href="https://github.com/milenamso">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenamso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
