@@ -1,7 +1,7 @@
 ## Hello, World! I am Milena Marques.
 
 - I'm currently studying software engineering and its applications
-- In the moment i'm learning about competitive programming and object-oriented
+- In the moment i'm learning about competitive programming
 
 <a href="https://github.com/milenamso">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenamso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
