@@ -26,5 +26,5 @@
   <a href="https://www.linkedin.com/in/milena-marques-3a80b0164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
   
- ![Snake animation](https://github.com/milenamso/milenamso/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/milenamso/milenamso/output/github-contribution-grid-snake.svg" />
   
