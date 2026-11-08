@@ -1,7 +1,6 @@
 ## Hello, World! I am Milena Marques.
 
-- I’m currently studying Software Engineering and its applications.
-- At the moment, I’m learning about competitive programming.
+- I’m currently studying IA Software Engineering and its applications.
 
 
 <div style="display: inline_block"><br>
